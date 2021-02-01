@@ -3,7 +3,8 @@ RDR DEM0NiC Revelations Mod Menu
 YOU MUST INSTALL THE MOD YOURSELF!
 WE ARE NOT GONNA HAND YOU A RPF!!!
 
-
+The tut videos go over this in depth so be sure to watch them!
+---------------------------------------------------------------
 XBOX: https://www.youtube.com/watch?v=v14vMsj2PTc
 PS3: https://www.youtube.com/watch?v=lro4miCz6to
 
@@ -16,8 +17,6 @@ Follow the tut videos on how to do this or you will encounter random freezes
 if you dont extract the ORIGINAL fuieventmonitor, then rename it, then re-import it
 back, using AreDeAre!
 
-The tut videos go over this in depth so be sure to watch them!
----------------------------------------------------------------
 
 What Are The Required XML Files & Why Are They Needed
 ------------------------------------------------------
