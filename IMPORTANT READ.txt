@@ -1,0 +1,12 @@
+Be sure to extract your normal fuieventmonitor and name it as fuieventmonitor_o
+-- That _o is not a zero!
+
+This is very important that you name it properly and that you re-import it directly where fuieventmonitor is.
+
+Follow the tut videos on how to do this or you will encounter random freezes
+if you dont extract the ORIGINAL fuieventmonitor, then rename it, then re-import it
+back, using AreDeAre!
+
+The tut videos go over this in depth so be sure to watch them!
+
+read the READ .txt doc for tut links!!!!
