@@ -1,4 +1,5 @@
-RDR DEM0NiC Revelations is a mod menu for RDR1 for PS3[CFW][HEN] X360[RGH][ISO MODDING]
+RDR DEM0NiC Revelations
+ is a mod menu for RDR1 for PS3 X360
 ----------------------------------------------------------------------------------------
 
 INSTALL TUT VIDEO
@@ -6,6 +7,7 @@ INSTALL TUT VIDEO
 YOU MUST INSTALL THE MOD YOURSELF!
 WE ARE NOT GONNA HAND YOU A RPF!!!
 XBOX: https://www.youtube.com/watch?v=v14vMsj2PTc
+
 PS3: https://www.youtube.com/watch?v=lro4miCz6to
 
 Be sure to extract your normal fuieventmonitor and name it as fuieventmonitor_o
