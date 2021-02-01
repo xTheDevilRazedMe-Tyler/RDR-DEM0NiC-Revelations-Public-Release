@@ -1,8 +1,5 @@
 RDR DEM0NiC Revelations Mod Menu
 ----------------------------------------------------------------------------------------
-DEM0NiC Revelations is a mod menu for RDR1. Released for PS3[CFW][HEN] X360[RGH][ISO MODDING]
-INSTALL TUT VIDEO
--------------------
 YOU MUST INSTALL THE MOD YOURSELF!
 WE ARE NOT GONNA HAND YOU A RPF!!!
 
